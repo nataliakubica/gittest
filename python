@@ -1,0 +1,4 @@
+import numpy as np
+import matplot.pyplot as plt
+
+np.rand(100)
